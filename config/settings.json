@@ -1,0 +1,60 @@
+{
+    "general": {
+        "run_on_startup": true,
+        "language": "en",
+        "check_for_updates": true,
+        "tray_icon_enabled": true,
+        "minimize_to_tray": true
+    },
+    "wallpaper": {
+        "default_wallpaper": "",
+        "wallpaper_mode": "stretch",
+        "shuffle_playlist": false,
+        "playlist_interval_minutes": 30,
+        "transition_effect": "crossfade",
+        "transition_duration_ms": 800
+    },
+    "display": {
+        "quality_level": 2,
+        "max_fps": 60,
+        "vsync": true,
+        "hdr_enabled": false,
+        "multi_monitor_mode": "independent"
+    },
+    "performance": {
+        "pause_on_fullscreen": true,
+        "pause_on_battery": false,
+        "gpu_usage_limit": 30,
+        "cpu_usage_limit": 10,
+        "ram_limit_mb": 512,
+        "cache_size_mb": 2048,
+        "frame_skip": true
+    },
+    "audio": {
+        "visualizer_enabled": true,
+        "visualizer_preset": "bass_reactive",
+        "audio_device": "default",
+        "volume_threshold": 0.05
+    },
+    "rgb": {
+        "razer_chroma_enabled": false,
+        "corsair_icue_enabled": false,
+        "philips_hue_enabled": false,
+        "hue_bridge_ip": "",
+        "sync_brightness": 0.8,
+        "sync_speed": "normal"
+    },
+    "workshop": {
+        "auto_download_subscribed": true,
+        "download_quality": "original",
+        "cache_previews": true,
+        "max_concurrent_downloads": 3
+    },
+    "editor": {
+        "default_width": 1920,
+        "default_height": 1080,
+        "default_fps": 30,
+        "default_duration_frames": 300,
+        "auto_save_interval_s": 60
+    }
+}

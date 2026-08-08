@@ -1,0 +1,69 @@
+{
+    "featured_categories": [
+        {
+            "name": "Anime",
+            "item_count": 458000,
+            "trending": true,
+            "popular_tags": ["genshin impact", "demon slayer", "honkai", "one piece", "naruto"]
+        },
+        {
+            "name": "Nature",
+            "item_count": 312000,
+            "trending": false,
+            "popular_tags": ["forest", "mountains", "ocean", "sunset", "space"]
+        },
+        {
+            "name": "Audio Visualizers",
+            "item_count": 189000,
+            "trending": true,
+            "popular_tags": ["bass reactive", "spectrum", "waveform", "edm", "lofi"]
+        },
+        {
+            "name": "Gaming",
+            "item_count": 276000,
+            "trending": true,
+            "popular_tags": ["cyberpunk 2077", "elden ring", "gta v", "minecraft", "retro"]
+        },
+        {
+            "name": "Minimalist",
+            "item_count": 94000,
+            "trending": false,
+            "popular_tags": ["geometric", "gradient", "particles", "abstract"]
+        },
+        {
+            "name": "Interactive",
+            "item_count": 67000,
+            "trending": true,
+            "popular_tags": ["mouse reactive", "click", "game", "clock"]
+        },
+        {
+            "name": "Cyberpunk",
+            "item_count": 58000,
+            "trending": true,
+            "popular_tags": ["neon", "city", "synthwave", "retrowave"]
+        },
+        {
+            "name": "Abstract",
+            "item_count": 143000,
+            "trending": false,
+            "popular_tags": ["liquid", "fractal", "3d render", " psychedelic"]
+        }
+    ],
+    "trending_wallpapers": [
+        "synthwave_sunset_4k",
+        "genshin_furina_live",
+        "bass_reactive_circles",
+        "forest_rain_particles",
+        "neon_tokyo_night",
+        "lofi_study_room",
+        "space_galaxy_rotation",
+        "minecraft_sunset_blocks"
+    ],
+    "stats": {
+        "total_wallpapers": 2100000,
+        "new_this_week": 3400,
+        "active_creators": 89000,
+        "total_downloads": 580000000
+    },
+    "last_updated": "2026-08-08"
+}
